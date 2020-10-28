@@ -1,5 +1,5 @@
 {
-    "homepage": "https://www.adamalston.com/",
+    "homepage": "https://www.aboelkassem.com/",
     "name": "v2",
     "version": "1.4.0",
     "private": true,
@@ -35,16 +35,16 @@
             "last 1 safari version"
         ]
     },
-    "description": "Personal Website of Adam Alston",
+    "description": "Personal Website of Mohamed Abdelrahman",
     "main": "index.js",
     "devDependencies": {},
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/adamalston/v2.git"
+        "url": "git+https://github.com/aboelkassem/LandingPage.git"
     },
     "author": "Adam Alston",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/adamalston/v2/issues"
+        "url": "https://github.com/aboelkassem/LandingPage/issues"
     }
 }
