@@ -1,3 +1,5 @@
+# <img src="public/favicon.svg" alt="atom" height="24px"> aboelkassem<span></span>.com &middot; [![Build Status](https://img.shields.io/circleci/build/gh/aboelkassem/v2?label=build)](https://app.circleci.com/pipelines/github/aboelkassem/LandingPage) [![Netlify status](https://img.shields.io/netlify/332bbd91-59b7-4091-8781-6f41330399b4)](https://app.netlify.com)
+
 <img float="left" height="370px" src="src/assets/desktop.png" alt="Website Preview" role="img" aria-label="Screenshot of the website"> <img align="right" height="370px" src="src/assets/mobile.png" alt="Website Preview" role="img" aria-label="Screenshot of the website">
 
 This website is designed to be simple and accessible. The dynamic particles make it both interactive and visually inviting. The website defaults to dark mode and can be toggled to light mode. Once toggled, the theme should persist between tabs, windows, and page reloads.
