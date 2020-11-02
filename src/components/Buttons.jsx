@@ -15,7 +15,7 @@ const DATA = [
         label: "LinkedIn",
     },
     {
-        href: "https://drive.google.com/file/d/12E1Cxo3wZ55-AuhgVrnoISNf4luFjjWr/view?usp=sharing",
+        href: "https://drive.google.com/file/d/1uxnweDRi0c_OcKkCtYc4gY-Q-Vnzthpv/view?usp=sharing",
         aria: "Visit Google Drive to view and download a copy of my resume",
         icon: <Resume />,
         label: "Resume",
