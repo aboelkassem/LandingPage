@@ -1,5 +1,5 @@
 # <img src="public/favicon.svg" alt="atom" height="24px"> aboelkassem<span></span>.com
-The second iteration of [aboelkassem.com](https://www.aboelkassem.com) built with [React](https://reactjs.org/) and hosted with [Netlify](https://www.netlify.com/).
+[aboelkassem.com](https://www.aboelkassem.com) built with [React](https://reactjs.org/) and hosted with [Netlify](https://www.netlify.com/).
 
 <img float="left" height="370px" width="70%" src="src/assets/desktop.png" alt="Website Preview" role="img" aria-label="Screenshot of the website"> <img align="right" width="25%" height="370px" src="src/assets/mobile.png" alt="Website Preview" role="img" aria-label="Screenshot of the website">
 
